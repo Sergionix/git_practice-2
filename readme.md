@@ -37,7 +37,6 @@ Alice->John: Yes... John, how are you?
 
 ```
 
-[^1]: This is the footnote.
 ```mermaid
 flowchart TB
     c1-->a2
