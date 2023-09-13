@@ -1,6 +1,18 @@
 # new evening
 ``` marked
-<h1>Hello</h1>
+const marked = require('marked');
+const hljs = require('highlight.js');
+
+// Используйте highlight.js для подсветки синтаксиса
+marked.setOptions({
+  highlight: function (code) {
+    return hljs.highlightAuto(code).value;
+  }
+});
+
+const markdownText = '```javascript\nfunction sayHello() {\n  console.log("Hello, world!");\n}\n```';
+const htmlText = marked(markdownText);
+console.log(htmlText);
 ```
 ```mermaid
 sequenceDiagram
