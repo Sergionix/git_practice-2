@@ -9,7 +9,7 @@
 > 2
 
 Here's a sentence with a footnote. [^1]
-
+Here's a sentence with a footnote. [^2]
 
  
 ``` html
@@ -38,7 +38,7 @@ Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 
 ```
-
+[^2]: This is the footnote.
 ```mermaid
 flowchart TB
     c1-->a2
