@@ -1,5 +1,5 @@
 # new evening
-``` css
+``` ruby
 <head>
     <meta charset="utf-8">
   <link rel="dns-prefetch" href="https://github.githubassets.com">
