@@ -11,7 +11,7 @@ Note right of Alice: Bob thinks a long<br/>long time, so long<br/>that the text 
 Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 
-Bob & John .green
+Bob, John ==> John, Bob: setFillColor #00FF00
 ```
 
 ## KaTeX
