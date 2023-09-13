@@ -1,5 +1,9 @@
 # new evening
-
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 ```mermaid
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
