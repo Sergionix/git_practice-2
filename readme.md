@@ -11,6 +11,17 @@ Note right of Alice: Bob thinks a long<br/>long time, so long<br/>that the text 
 Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 
+flowchart TB
+    c1-->a2
+    subgraph one
+    a1-->a2
+    end
+    subgraph two
+    b1-->b2
+    end
+    subgraph three
+    c1-->c2
+    end
 
 ```
 
