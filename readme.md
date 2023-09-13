@@ -12,10 +12,12 @@
 Here's a sentence with a footnote. [^2]
 
 term
-: definition H~2~O 	X^2^
+: definition 
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+H~2~O 	X^2^
  
 ``` html
 <!DOCTYPE html>
