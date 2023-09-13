@@ -17,7 +17,13 @@ term
 - [ ] Update the website
 - [ ] Contact the media
 
-H~2~O 	X^2^
+	```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
  
 ``` html
 <!DOCTYPE html>
