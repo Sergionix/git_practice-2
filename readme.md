@@ -10,6 +10,7 @@
 
 Here's a sentence with a footnote. [^1]
 Here's a sentence with a footnote. [^2]
+
 term
 : definition
  
