@@ -5,6 +5,13 @@
 |--------|--|--
 |       > строка№1 |  fgh|
 > sdf
+>1
+> 2
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+ 
 ``` html
 <!DOCTYPE html>
 <html>
