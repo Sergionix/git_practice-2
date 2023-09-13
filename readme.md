@@ -3,6 +3,8 @@
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
+
+<h1>Hello</h1>
 ```
 ```mermaid
 sequenceDiagram
