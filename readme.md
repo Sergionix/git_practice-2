@@ -24,6 +24,8 @@ Here's a sentence with a footnote. [^1]
 </body>
 </html>
 ```
+[^1]: This is the footnote.
+
 ```mermaid
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
@@ -50,7 +52,7 @@ flowchart TB
     c1-->c2
     end
 ```
-[^1]: This is the footnote.
+
 ## KaTeX
 
 You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
