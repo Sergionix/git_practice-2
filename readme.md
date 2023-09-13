@@ -1,5 +1,5 @@
 # new evening
-``` ruby
+``` html
 <!DOCTYPE html>
 <html>
 <head>
