@@ -1,18 +1,13 @@
 # new evening
 ``` html
-const marked = require('marked');
-const hljs = require('highlight.js');
-
-// Используйте highlight.js для подсветки синтаксиса
-marked.setOptions({
-  highlight: function (code) {
-    return hljs.highlightAuto(code).value;
-  }
-});
-
-const markdownText = '```javascript\nfunction sayHello() {\n  console.log("Hello, world!");\n}\n```';
-const htmlText = marked(markdownText);
-console.log(htmlText);
+<head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+  <link rel="preconnect" href="https://github.githubassets.com" crossorigin>
+  <link rel="preconnect" href="https://avatars.githubusercontent.com">
 ```
 ```mermaid
 sequenceDiagram
