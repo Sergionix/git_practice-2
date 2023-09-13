@@ -11,8 +11,11 @@
 :joy:Here's a sentence with a footnote. [^1]
 Here's a sentence with a footnote. [^2]
 
-term
-: definition 
+name: agenda
+class: middle, center
+# Agenda
+The name of this slide is {{ name }}.
+
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
