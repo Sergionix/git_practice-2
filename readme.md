@@ -17,7 +17,7 @@ term
 - [ ] Update the website
 - [ ] Contact the media
 
-	```
+```
 {
   "firstName": "John",
   "lastName": "Smith",
