@@ -28,6 +28,7 @@ The name of this slide is {{ name }}.
 - [ ] Contact the media
 
 ```
+`#0969DA`
 {
   "firstName": "John",
   "lastName": "Smith",
