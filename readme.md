@@ -10,6 +10,10 @@ Note right of Alice: Bob thinks a long<br/>long time, so long<br/>that the text 
 
 Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
+
+classDef green fill:#00FF00,stroke:#000000;
+
+Bob & John .green
 ```
 
 ## KaTeX
