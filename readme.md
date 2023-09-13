@@ -1,22 +1,15 @@
 # new evening
 ``` ruby
+<!DOCTYPE html>
+<html>
 <head>
-    <meta charset="utf-8">
-  <link rel="dns-prefetch" href="https://github.githubassets.com">
-  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
-
-  </head>
-<h1> Hello </h1>
-  <body class="logged-in env-production page-responsive" style="word-wrap: break-word;">
-    <div data-turbo-body class="logged-in env-production page-responsive" style="word-wrap: break-word;">
-      
-
-
-    <div class="position-relative js-header-wrapper ">
-      <a href="#start-of-content" class="p-3 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content">Skip to content</a>
-      <span data-view-component="true" class="progress-pjax-loader Progress position-fixed width-full">
-    <span style="width: 0%;" data-view-component="true" class="Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis"></span>
-</span>  
+    <title>Example HTML Page</title>
+</head>
+<body>
+    <h1>Hello, world!</h1>
+    <p>This is an example HTML page.</p>
+</body>
+</html>
 ```
 ```mermaid
 sequenceDiagram
