@@ -1,5 +1,5 @@
 # new evening
-``` ruby
+``` javascript
 const marked = require('marked');
 const hljs = require('highlight.js');
 
