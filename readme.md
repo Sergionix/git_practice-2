@@ -13,6 +13,9 @@ Here's a sentence with a footnote. [^2]
 
 term
 : definition
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
  
 ``` html
 <!DOCTYPE html>
