@@ -1,5 +1,5 @@
 # new evening
-``` javascript
+``` python
 const marked = require('marked');
 const hljs = require('highlight.js');
 
