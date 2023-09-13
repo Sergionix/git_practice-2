@@ -50,6 +50,7 @@ flowchart TB
     c1-->c2
     end
 ```
+[^1]: This is the footnote.
 ## KaTeX
 
 You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
