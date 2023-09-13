@@ -11,6 +11,8 @@ Note right of Alice: Bob thinks a long<br/>long time, so long<br/>that the text 
 Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 
+```
+```mermaid
 flowchart TB
     c1-->a2
     subgraph one
@@ -22,9 +24,7 @@ flowchart TB
     subgraph three
     c1-->c2
     end
-
 ```
-
 ## KaTeX
 
 You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
