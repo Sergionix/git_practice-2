@@ -12,7 +12,7 @@
 Here's a sentence with a footnote. [^2]
 
 term
-: definition
+: definition H~2~O 	X^2^
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
